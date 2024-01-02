@@ -6,6 +6,12 @@ CyberFiction is a replicated website project that explores the intersection of t
 
 We welcome contributions! Feel free to submit pull requests or open issues. Please follow our [contribution guidelines](CONTRIBUTING.md).
 
+## Installation
+1. Clone the repository via git clone
+2. copy  OR move all images into sigle file called canvas
+3.  and give acces to javascript
+4.  and all set
+   
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
