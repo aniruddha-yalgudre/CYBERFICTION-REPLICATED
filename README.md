@@ -8,8 +8,8 @@ We welcome contributions! Feel free to submit pull requests or open issues. Plea
 
 ## Installation
 1. Clone the repository via git clone
-2. copy  OR move all images into sigle file called canvas
-3.  and give acces to javascript
+2. just simply download all images  from image.txt file and  move into sigle file called canvas
+3. give access to javascript
 4.  and all set
    
 ## License
